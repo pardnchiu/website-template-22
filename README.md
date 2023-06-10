@@ -6,8 +6,8 @@
 
 - 使用Html、Css / Sass和Javascript編寫。
 - 使用[Font Awesome 6](https://fontawesome.com/v6/search)圖標和[Cgfaces](https://cgfaces.com)頭像。
-- 可以在[此處進行預覽](https://pardnchiu.github.io/website-template-21)。
-- 可以在[GitHub](https://github.com/pardnchiu/website-template-21)上找到源碼。
+- 可以在[此處進行預覽](https://pardnchiu.github.io/website-template-22)。
+- 可以在[GitHub](https://github.com/pardnchiu/website-template-22)上找到源碼。
 
 ## 作者和貢獻者
 
